@@ -13,7 +13,7 @@
 ## Project Overview
 This project was developed during the first Hackathon organized by the company I work for - _Driva_ -  with a focus on market intelligence. Each team was challenged to create a dashboard that could generate business insights for a hypothetical client from a specific sector — such as technology, industry, or services.
 
-Our team was assigned the "industry" category and chose to focus on the **agribusiness sector**. We worked with a recently added internal data source that had not yet been deeply explored, aiming to uncover meaningful patterns and support strategic decision-making in the agro market.
+Our team (called DASA, for Data Agro Sul Analytics) was assigned to the "industry" category and chose to focus on the **agribusiness sector**. We worked with a recently added internal data source that had not yet been deeply explored, aiming to uncover meaningful patterns and support strategic decision-making in the agribusiness market.
 
 
 ## Challenges
